@@ -1,0 +1,323 @@
+%PDF-1.4
+%---- ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 11 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 12 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 13 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Contents 14 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/PageMode /UseNone /Pages 10 0 R /Type /Catalog
+>>
+endobj
+9 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20261015182738+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20261015182738+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+10 0 obj
+<<
+/Count 4 /Kids [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Type /Pages
+>>
+endobj
+11 0 obj
+<<
+/Length 2674
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.247059 .247059 .247059 rg
+n 0 750 612 42 re f*
+.901961 .494118 .133333 rg
+n 0 745 612 5 re f*
+1 1 1 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 36 765 Tm (System Requirements Specification) Tj T* ET
+.4 .4 .4 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 36 20 Tm (Smart Home Security System - SysRS | Page 1 of 4) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 705 Tm (1. Introduction) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 691 Tm (Purpose: provide homeowners and residents with an integrated residential security platform using motion,) Tj T* ET
+BT 1 0 0 1 36 681.6 Tm (door/window and water-leak sensors, IP cameras, alarms, smart-device controllers, local storage and optional) Tj T* ET
+BT 1 0 0 1 36 672.2 Tm (cloud services. Critical local detection and alarm functions remain available during Internet loss.) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 655.8 Tm (Scope: monitor security/safety events; arm/disarm zones; stream and record video; activate alarms; notify users;) Tj T* ET
+BT 1 0 0 1 36 646.4 Tm (authenticate and authorize users; retain event history; control compatible locks/lights. Police, fire, medical) Tj T* ET
+BT 1 0 0 1 36 637 Tm (and professional monitoring services are out of scope.) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 620.6 Tm (2. Overview) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 606.6 Tm (Context: a Central Control Unit is the local processing node. Zigbee sensors/controllers and IP/PoE cameras send) Tj T* ET
+BT 1 0 0 1 36 597.2 Tm (events locally. Mobile, web and wall-panel users access the system through authenticated interfaces. Cloud) Tj T* ET
+BT 1 0 0 1 36 587.8 Tm (services provide remote access, notifications, synchronization and backup.) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 571.4 Tm (Functions: SF-01 motion detection; SF-02 door/window monitoring; SF-03 water-leak detection; SF-04 video; SF-05) Tj T* ET
+BT 1 0 0 1 36 562 Tm (local alarm; SF-06 alerts; SF-07 arm/disarm; SF-08 authentication/RBAC; SF-09 remote access; SF-10 event) Tj T* ET
+BT 1 0 0 1 36 552.6 Tm (storage; SF-11 smart-device control; SF-12 local operation during Internet loss.) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 536.2 Tm (Users: Homeowner/Admin \(full configuration\); Resident \(monitoring, permitted cameras, arm/disarm\); Maintenance) Tj T* ET
+BT 1 0 0 1 36 526.8 Tm (Technician \(installation, pairing, diagnosis and replacement with restricted private-data access\).) Tj T* ET
+ 
+endstream
+endobj
+12 0 obj
+<<
+/Length 3180
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.247059 .247059 .247059 rg
+n 0 750 612 42 re f*
+.901961 .494118 .133333 rg
+n 0 745 612 5 re f*
+1 1 1 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 36 765 Tm (3. Functional & Quality Requirements) Tj T* ET
+.4 .4 .4 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 36 20 Tm (Smart Home Security System - SysRS | Page 2 of 4) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 705 Tm (3. Functional Requirements) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 691 Tm (FR-MOT-01 detect events from registered motion sensors. FR-MOT-02 create a security event for motion in an armed) Tj T* ET
+BT 1 0 0 1 36 681.6 Tm (zone. FR-DW-01 detect door/window open/close. FR-WL-01 detect water leaks; FR-WL-02 notify authorized users. FR-) Tj T* ET
+BT 1 0 0 1 36 672.2 Tm (CAM-01 support live IP-camera video; FR-CAM-02 allow authorized remote viewing; FR-CAM-03 support event-) Tj T* ET
+BT 1 0 0 1 36 662.8 Tm (triggered recording; FR-CAM-05 indicate offline cameras. FR-ALM-01 activate local alarm for qualifying) Tj T* ET
+BT 1 0 0 1 36 653.4 Tm (intrusion; FR-ALM-03 notify users. FR-CCU-01 process registered device events; FR-CCU-03 retain essential local) Tj T* ET
+BT 1 0 0 1 36 644 Tm (detection, logging and alarm without cloud. FR-AUTH-01 require authentication; FR-AUTH-02 reject invalid) Tj T* ET
+BT 1 0 0 1 36 634.6 Tm (credentials; FR-AUTH-03 provide Admin and Resident roles. FR-CTL-01 support compatible locks, lights and siren) Tj T* ET
+BT 1 0 0 1 36 625.2 Tm (controllers.) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 608.8 Tm (4. Usability Requirements) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 594.8 Tm (UR-01 resident shall arm/disarm in no more than three UI actions. UR-02 UI shall display Disarmed, Armed Stay,) Tj T* ET
+BT 1 0 0 1 36 585.4 Tm (Armed Away, Alert or Alarm. UR-03 alerts identify type, device/location and time. UR-04 at least 90% of) Tj T* ET
+BT 1 0 0 1 36 576 Tm (representative first-time users shall arm/disarm without operational assistance. UR-06 recoverable errors shall) Tj T* ET
+BT 1 0 0 1 36 566.6 Tm (provide a user-relevant recovery instruction.) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 550.2 Tm (5. Performance Requirements) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 536.2 Tm (PR-01 process normal sensor event and update local state within 1 second. PR-02 activate configured local alarm) Tj T* ET
+BT 1 0 0 1 36 526.8 Tm (within 2 seconds after qualifying intrusion confirmation. PR-03 submit remote notification within 3 seconds of) Tj T* ET
+BT 1 0 0 1 36 517.4 Tm (alarm activation when Internet is available. PR-04 support at least 50 registered sensors/controllers. PR-05) Tj T* ET
+BT 1 0 0 1 36 508 Tm (support at least 8 IP cameras subject to bandwidth/storage. PR-06 support at least 5 simultaneous authorized) Tj T* ET
+BT 1 0 0 1 36 498.6 Tm (user devices. PR-07 support continuous 24-hour local operation. PR-08 restore essential operation within 120) Tj T* ET
+BT 1 0 0 1 36 489.2 Tm (seconds after a normal software restart.) Tj T* ET
+ 
+endstream
+endobj
+13 0 obj
+<<
+/Length 3773
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.247059 .247059 .247059 rg
+n 0 750 612 42 re f*
+.901961 .494118 .133333 rg
+n 0 745 612 5 re f*
+1 1 1 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 36 765 Tm (6-8. Interfaces, Operations, Modes & Security) Tj T* ET
+.4 .4 .4 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 36 20 Tm (Smart Home Security System - SysRS | Page 3 of 4) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 705 Tm (6. System Interfaces) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 691 Tm (IF-01 low-power sensors use supported Zigbee. IF-02 cameras use local IP over Ethernet/PoE or approved Wi-Fi.) Tj T* ET
+BT 1 0 0 1 36 681.6 Tm (IF-03 remote users use HTTPS. IF-04 cloud messaging uses HTTPS or MQTT over TLS. IF-05 loss of cloud/remote) Tj T* ET
+BT 1 0 0 1 36 672.2 Tm (interface shall not disable essential local intrusion detection and alarm processing. Local database/storage) Tj T* ET
+BT 1 0 0 1 36 662.8 Tm (uses a local service/API; critical equipment uses AC mains with UPS/battery where appropriate.) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 646.4 Tm (7. System Operations) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 632.4 Tm (HSI-01 critical arm/disarm, alarm acknowledgement and alarm status are visible. HSI-02 high-impact admin actions) Tj T* ET
+BT 1 0 0 1 36 623 Tm (require confirmation. HSI-03 maintenance access is role-restricted. HSI-04 state is conveyed by text as well as) Tj T* ET
+BT 1 0 0 1 36 613.6 Tm (color. MR-01 a failed supported sensor is replaceable without replacing the hub. MR-02 device health is visible.) Tj T* ET
+BT 1 0 0 1 36 604.2 Tm (MR-04 trained technician replaces/re-registers a supported sensor within 30 minutes. REL-01 local) Tj T* ET
+BT 1 0 0 1 36 594.8 Tm (intrusion/alarm works without Internet. REL-03 central unit target availability is at least 99.5% monthly) Tj T* ET
+BT 1 0 0 1 36 585.4 Tm (excluding planned maintenance. REL-04 critical events during cloud outage are retained locally.) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 569 Tm (8. Modes / Physical / Adaptability / Environment) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 555 Tm (Modes: Disarmed, Armed Stay, Armed Away, Alert, Alarm, Maintenance, Offline/Degraded. PHY-01 hub is suitable for) Tj T* ET
+BT 1 0 0 1 36 545.6 Tm (indoor residential installation; PHY-02 outdoor cameras use suitable enclosures; PHY-03 sensor batteries are) Tj T* ET
+BT 1 0 0 1 36 536.2 Tm (accessible. AD-01 compatible sensors can be added without redesign; AD-02 architecture supports future growth to) Tj T* ET
+BT 1 0 0 1 36 526.8 Tm (at least 100 devices subject to capacity. ENV-01 indoor electronics target 0 C to 40 C; ENV-03 battery sensors) Tj T* ET
+BT 1 0 0 1 36 517.4 Tm (continue during AC interruption; ENV-05 retry/mesh/reconnection handles normal radio interference.) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 501 Tm (8.4 System Security) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 487 Tm (SEC-01 sensitive remote traffic is encrypted in transit. SEC-02 passwords are not stored in plaintext. SEC-03) Tj T* ET
+BT 1 0 0 1 36 477.6 Tm (RBAC separates Admin and Resident. SEC-04 admin configuration is restricted. SEC-05 auth failures are logged.) Tj T* ET
+BT 1 0 0 1 36 468.2 Tm (SEC-06 significant actions are audited. SEC-07 secure updates reject unauthorized packages where supported.) Tj T* ET
+BT 1 0 0 1 36 458.8 Tm (SEC-08 sensitive local data uses OS/application access controls and encryption for secrets/tokens. SEC-09) Tj T* ET
+BT 1 0 0 1 36 449.4 Tm (camera/event access follows role and household policy.) Tj T* ET
+ 
+endstream
+endobj
+14 0 obj
+<<
+/Length 3705
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.247059 .247059 .247059 rg
+n 0 750 612 42 re f*
+.901961 .494118 .133333 rg
+n 0 745 612 5 re f*
+1 1 1 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 36 765 Tm (9-10. Verification, Assumptions & Traceability) Tj T* ET
+.4 .4 .4 rg
+BT /F1 7 Tf 8.4 TL ET
+BT 1 0 0 1 36 20 Tm (Smart Home Security System - SysRS | Page 4 of 4) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 705 Tm (9. Verification) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 691 Tm (Verification methods: inspection, analysis, demonstration, functional integration testing, performance/load) Tj T* ET
+BT 1 0 0 1 36 681.6 Tm (testing, security testing and fault injection. The Verification & Validation workbook contains objectives,) Tj T* ET
+BT 1 0 0 1 36 672.2 Tm (priorities, requirement type, preconditions, numbered steps, an Expected outcome paired with every step, final) Tj T* ET
+BT 1 0 0 1 36 662.8 Tm (expected result and requirement traceability.) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 646.4 Tm (Required coverage: motion sensor integration, door/window integration, water leak integration, camera/live view,) Tj T* ET
+BT 1 0 0 1 36 637 Tm (valid and invalid login; user validation for motion alerts, door/window activation, remote live view,) Tj T* ET
+BT 1 0 0 1 36 627.6 Tm (arm/disarm; load validation for 3+ simultaneous sensor triggers and 3+ concurrent user devices; offline-) Tj T* ET
+BT 1 0 0 1 36 618.2 Tm (reliability scenarios are also included.) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 601.8 Tm (10. Assumptions and Dependencies) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 587.8 Tm (A-01 devices/network are installed correctly. A-02 remote access/push depend on Internet/cloud availability.) Tj T* ET
+BT 1 0 0 1 36 578.4 Tm (A-03 essential local intrusion/alarm does not depend on Internet. A-04 users have supported devices/software.) Tj T* ET
+BT 1 0 0 1 36 569 Tm (A-05 household maintains batteries. A-06 LAN bandwidth/storage are sufficient for configured video. A-07 cloud) Tj T* ET
+BT 1 0 0 1 36 559.6 Tm (outage may remove remote functions but not local security. A-08 installation locations provide adequate signal,) Tj T* ET
+BT 1 0 0 1 36 550.2 Tm (network, power and environmental protection.) Tj T* ET
+.901961 .494118 .133333 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 36 533.8 Tm (Traceability Summary) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 519.8 Tm (Motion: FR-MOT -> VER-001, VAL-001. Door/window: FR-DW -> VER-002, VAL-002. Water leak: FR-WL -> VER-003.) Tj T* ET
+BT 1 0 0 1 36 510.4 Tm (Camera/remote view: FR-CAM -> VER-004, VAL-003. Authentication/security: FR-AUTH/SEC -> VER-005, VER-006.) Tj T* ET
+BT 1 0 0 1 36 501 Tm (Offline reliability: FR-CCU-03/REL -> VER-007, VAL-008. Arm/disarm usability: UR -> VAL-004, VAL-009.) Tj T* ET
+BT 1 0 0 1 36 491.6 Tm (Load/concurrency: PR-01/PR-06 -> VAL-005, VAL-006.) Tj T* ET
+.133333 .133333 .133333 rg
+BT /F1 7.6 Tf 9.12 TL ET
+BT 1 0 0 1 36 475.2 Tm (Design basis: local-first hybrid edge + cloud. Weighted tradeoff matrices justify Zigbee for low-power) Tj T* ET
+BT 1 0 0 1 36 465.8 Tm (sensors/controllers, PoE IP cameras for fixed video, and hybrid local+cloud server/manager architecture. Zigbee) Tj T* ET
+BT 1 0 0 1 36 456.4 Tm (is retained as the architecture choice even where Z-Wave has a marginal raw score advantage because one shared) Tj T* ET
+BT 1 0 0 1 36 447 Tm (mesh/coordinator reduces gateway complexity, integration effort, maintenance and multi-radio interoperability) Tj T* ET
+BT 1 0 0 1 36 437.6 Tm (risk.) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000516 00000 n 
+0000000711 00000 n 
+0000000906 00000 n 
+0000001101 00000 n 
+0000001170 00000 n 
+0000001431 00000 n 
+0000001509 00000 n 
+0000004235 00000 n 
+0000007467 00000 n 
+0000011292 00000 n 
+trailer
+<<
+/ID 
+[<efba037ef6f57ef52fcab84390584cfc><efba037ef6f57ef52fcab84390584cfc>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 9 0 R
+/Root 8 0 R
+/Size 15
+>>
+startxref
+15049
+%%EOF
